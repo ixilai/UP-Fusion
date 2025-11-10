@@ -1,7 +1,6 @@
 # 🧠 UP-Fusion — AAAI 2026
 
-Official PyTorch implementation of **UP-Fusion**:  
-**"Text-Guided Channel Perturbation and Pretrained Knowledge Integration for Unified Multi-Modality Image Fusion"**,  
+**Text-Guided Channel Perturbation and Pretrained Knowledge Integration for Unified Multi-Modality Image Fusion**,  
 
 Accepted at **AAAI 2026**.
 
