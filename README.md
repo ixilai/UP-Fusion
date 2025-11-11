@@ -58,6 +58,7 @@ For convenience, we provide a pre-trained checkpoint of **UP-Fusion**. You can d
 - **Baidu Cloud:** [Download](https://pan.baidu.com/s/1U9UjyeNt6y6bDbty3UMrUA?pwd=w74h)    # 提取码：w74h 
 - **Google Drive:** [Download](https://drive.google.com/file/d/1nOs9xAkjfHSNRqNgYO0CPuY7gpEg8k2X/view?usp=sharing)
 
+⚙️ **Note:** Only one pre-trained weight is required to perform testing on all datasets, including both infrared-visible image fusion and medical image fusion tasks. No dataset-specific fine-tuning is needed.
 
 ## 🚀 Usage
 
