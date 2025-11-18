@@ -7,6 +7,7 @@ Accepted at **AAAI 2026**.
 > **Authors:** Xilai Li, Xiaosong Li, Weijun Jiang  
 > **Affiliation:** Foshan University, China  
 
+[![arXiv](https://img.shields.io/badge/arXiv-2511.12432-b31b1b.svg)](https://arxiv.org/abs/2511.12432)
 ---
 
 ## 🔍 Overview
