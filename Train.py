@@ -113,8 +113,7 @@ def train():
                 output_fusion = Fusion(data_VIS, data_IR, text_code, epoch=epoch)
 
                 loss_fn = fusion_loss_vif(device)
-                loss_gradient, loss_l1_val = loss_fn(data_VIS, data_IR, output_fusion)
-                loss = loss_l1_val + loss_gradient
+                loss = loss_fn(data_VIS, data_IR, output_fusion)
 
                 optimizer.zero_grad()
                 loss.backward()
