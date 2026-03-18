@@ -77,3 +77,21 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 Train.py
 ```bash
 python Test.py
 ```
+
+### Citation
+If you find our work useful for your research, please cite our paper. 
+```
+@inproceedings{Li_Li_Jiang_2026,
+  title={Text-Guided Channel Perturbation and Pre-Trained Knowledge Integration for Unified Multi-Modality Image Fusion},
+  author={Li, Xilai and Li, Xiaosong and Jiang, Weijun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={8},
+  pages={6521-6529},
+  year={2026},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/37581},
+  DOI={10.1609/aaai.v40i8.37581}
+}
+
+```
+
